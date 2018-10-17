@@ -1,0 +1,20 @@
+{
+  "name": "concu.com",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "LÊ DUY <leduytlnnd@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/phanleduy1998/concu.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
